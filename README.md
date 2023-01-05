@@ -18,4 +18,8 @@ Here you'll find all the Data Analysis starting with the data extraction from a 
 
 Here you'll find the load and transform process where I charged the data from an initial spreadsheet and the transformation of that data to normaliza the information.
 
+## MLM directory
+
+What about glucose prediction? In this directory you will find a simple linear regresion model to predict glucose levels at some specific date.
+
 Thanks for visiting this project.
